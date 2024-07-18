@@ -1,3 +1,5 @@
+仅为备份 @Lotus6师傅的[ysoserial](https://github.com/Lotus6/ysoseria)
+
 # ysoserial
 ysoserial 图形化，探测 gadget，TomcatEcho，命令执行，冰蝎，哥斯拉内存马注入，加载字节码等
 * 添加了帆软 JacksonSignedObject 链
